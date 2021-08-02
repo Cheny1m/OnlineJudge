@@ -1,1 +1,1 @@
-8.2 Clone project to local IDEA
+* 8.2 Clone project to local IDEA
